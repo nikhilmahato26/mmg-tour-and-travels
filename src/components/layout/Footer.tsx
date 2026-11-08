@@ -167,10 +167,14 @@ export const Footer: React.FC = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-cream/60">
-          <p>© 2026 MMG Tour and Travels. All Rights Reserved.</p>
-          <p className="italic font-serif text-cream/80">
-            &ldquo;{BUSINESS_CONFIG.subTagline}&rdquo; — Ooty, Tamil Nadu
+        <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-cream/70">
+          <div className="flex flex-col sm:flex-row items-center gap-2 text-center sm:text-left">
+            <p>© 2026 MMG Tour and Travels. All Rights Reserved.</p>
+            <span className="hidden sm:inline text-cream/40">•</span>
+            <p className="font-semibold text-mountain-light">✨ {BUSINESS_CONFIG.slogan} ✨</p>
+          </div>
+          <p className="italic font-serif text-cream/90 font-medium">
+            &ldquo;{BUSINESS_CONFIG.motto}&rdquo; — {BUSINESS_CONFIG.subTagline}
           </p>
         </div>
       </div>

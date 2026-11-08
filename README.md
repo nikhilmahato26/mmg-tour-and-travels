@@ -7,6 +7,8 @@ Premium, modern, responsive travel and taxi booking website for **MMG Tour and T
 ## 🌄 About MMG Tour and Travels
 - **Business Name:** MMG TOUR AND TRAVELS
 - **Tagline:** EXPLORE OOTY, ENJOY THE JOURNEY.
+- **Slogan:** ✨ HOLIDAYS DIFFERENTLY ✨
+- **Motto:** Your Journey, Our Responsibility!
 - **Sub-tagline:** Safe Journey... Happy Memories!
 - **Primary Service:** Hill station taxi services, sightseeing tours, outstation cabs & airport transfers
 - **Location:** 3/95, Morikal, Thummanatti Post, Ooty, The Nilgiris - 643002, Tamil Nadu, India
@@ -14,6 +16,22 @@ Premium, modern, responsive travel and taxi booking website for **MMG Tour and T
 - **WhatsApp:** [+91 9626599899](https://wa.me/919626599899)
 - **Email:** [mmgtourandtravelsooty@gmail.com](mailto:mmgtourandtravelsooty@gmail.com)
 - **Permit:** Government Tourist Maxi-Cab Permit (Transport Department, Ooty RTO)
+
+> 🌿 **Discover the Beauty of Ooty with MMG Tours and Travels! 🚖**
+>
+> *Experience the breathtaking beauty of the Queen of Hill Stations – Ooty! From misty mountains and winding roads to lush green tea gardens, scenic viewpoints and unforgettable destinations, make every journey a memorable experience with us.*
+>
+> 🚘 **Enjoy comfortable, safe and convenient taxi services.**
+> - 🌄 Explore beautiful destinations.
+> - 🚖 Travel with comfort and convenience.
+> - 📍 Enjoy scenic routes and breathtaking views.
+> - ❤️ Make every trip a memorable one!
+>
+> **Your Journey, Our Responsibility!**
+>
+> 📞 Contact MMG Tours and Travels today and plan your next unforgettable holiday!
+>
+> ✨ **HOLIDAYS DIFFERENTLY** ✨
 
 ---
 

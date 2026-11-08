@@ -24,9 +24,14 @@ export const Hero: React.FC = () => {
           {/* Left Column: Typography & CTAs */}
           <div className="lg:col-span-7 space-y-6">
             {/* Eyebrow Pill */}
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-cream text-xs font-semibold uppercase tracking-widest shadow-sm">
-              <MapPin className="w-3.5 h-3.5 text-mountain-light" />
-              <span>{BUSINESS_CONFIG.hero.eyebrow}</span>
+            <div className="flex flex-wrap items-center gap-2">
+              <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-cream text-xs font-semibold uppercase tracking-widest shadow-sm">
+                <MapPin className="w-3.5 h-3.5 text-mountain-light" />
+                <span>{BUSINESS_CONFIG.hero.eyebrow}</span>
+              </div>
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-mountain-teal/40 backdrop-blur-md border border-mountain-light/30 text-white text-[11px] font-extrabold tracking-wider uppercase">
+                <span>✨ {BUSINESS_CONFIG.slogan} ✨</span>
+              </div>
             </div>
 
             {/* Main Heading */}
@@ -128,8 +133,16 @@ export const Hero: React.FC = () => {
                   </div>
 
                   <div className="absolute bottom-3 left-3 right-3 text-white">
-                    <p className="font-serif font-bold text-lg text-cream">MMG Verified Fleet</p>
-                    <p className="text-xs text-cream/80">
+                    <div className="flex items-center justify-between">
+                      <p className="font-serif font-bold text-lg text-cream">MMG Verified Fleet</p>
+                      <span className="text-[10px] bg-mountain-teal/80 px-2 py-0.5 rounded-full font-bold uppercase">
+                        Holidays Differently
+                      </span>
+                    </div>
+                    <p className="text-xs text-cream/90 font-medium italic mt-0.5">
+                      &ldquo;{BUSINESS_CONFIG.motto}&rdquo;
+                    </p>
+                    <p className="text-[11px] text-cream/75 mt-1">
                       Standard Sedans, 7-Seater SUVs & 14-Seater Tempo Travellers with experienced Nilgiri hill drivers.
                     </p>
                   </div>

@@ -3,6 +3,8 @@ export const BUSINESS_CONFIG = {
   shortName: "MMG Travels",
   tagline: "EXPLORE OOTY, ENJOY THE JOURNEY.",
   subTagline: "Safe Journey... Happy Memories!",
+  slogan: "HOLIDAYS DIFFERENTLY",
+  motto: "Your Journey, Our Responsibility!",
   quote: "Your Trusted Travel Partner in the Nilgiris",
   
   phone: "+91 9626599899",
@@ -41,6 +43,37 @@ export const BUSINESS_CONFIG = {
     ],
   },
   
+  experience: {
+    badge: "✨ HOLIDAYS DIFFERENTLY ✨",
+    heading: "Discover the Beauty of Ooty with MMG Tours and Travels!",
+    body: "Experience the breathtaking beauty of the Queen of Hill Stations – Ooty! From misty mountains and winding roads to lush green tea gardens, scenic viewpoints and unforgettable destinations, make every journey a memorable experience with us.",
+    serviceHighlight: "Enjoy comfortable, safe and convenient taxi services.",
+    pillars: [
+      {
+        emoji: "🌄",
+        title: "Explore Beautiful Destinations",
+        desc: "From Doddabetta peak to tranquil Pykara and hidden Avalanche lakes.",
+      },
+      {
+        emoji: "🚖",
+        title: "Comfort & Convenience",
+        desc: "Well-maintained sedans, family SUVs, and spacious tempo travellers.",
+      },
+      {
+        emoji: "📍",
+        title: "Scenic Routes & Views",
+        desc: "Expert hill drivers guiding you through winding hairpin bends and tea gardens.",
+      },
+      {
+        emoji: "❤️",
+        title: "Memorable Trips Every Time",
+        desc: "Friendly hospitality dedicated to turning every journey into treasured memories.",
+      },
+    ],
+    motto: "Your Journey, Our Responsibility!",
+    ctaText: "Contact MMG Tours and Travels today and plan your next unforgettable holiday!",
+  },
+
   about: {
     heading: "ABOUT MMG TOUR AND TRAVELS",
     p1: "MMG Tour and Travels is a taxi service based in Ooty, Tamil Nadu. We help customers enquire about travel arrangements and explore the beautiful destinations of Ooty and its surrounding regions.",
@@ -61,4 +94,3 @@ export const BUSINESS_CONFIG = {
     "Kindly ensure the driver receives adequate rest for a safe and comfortable journey.",
   ],
 } as const;
-

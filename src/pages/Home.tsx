@@ -3,6 +3,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { MobileActionBar } from "@/components/layout/MobileActionBar";
 import { Hero } from "@/components/sections/Hero";
+import { ExperienceOotyBanner } from "@/components/sections/ExperienceOotyBanner";
 import { BookingForm } from "@/components/sections/BookingForm";
 import { TaxiServices } from "@/components/sections/TaxiServices";
 import { Destinations } from "@/components/sections/Destinations";
@@ -44,6 +45,9 @@ export const Home: React.FC = () => {
       <main className="flex-1">
         {/* 2. Hero Section */}
         <Hero />
+
+        {/* 2.5 Experience Ooty Promotional Showcase */}
+        <ExperienceOotyBanner />
 
         {/* 3. Quick Taxi Booking Form */}
         <BookingForm
